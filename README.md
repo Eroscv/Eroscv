@@ -184,13 +184,30 @@ Sistema para centralizar o acompanhamento de ordens de serviço técnicas em uma
 <a id="formação"></a>
 ### 🎓 Formação
 
-- 🎓 Pós-graduação em **Arquitetura de Software** — Faculeste
-- 🎓 Pós-graduação em **Análise de Dados** — Faculeste
-- 🎓 Tecnólogo em **Jogos Digitais** — Fatec Americana
+<table>
+<tr>
+<td align="center" width="60">🎓</td>
+<td><b>Pós-graduação em Arquitetura de Software</b><br/><sub>Faculeste</sub></td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td><b>Pós-graduação em Análise de Dados</b><br/><sub>Faculeste</sub></td>
+</tr>
+<tr>
+<td align="center">🕹️</td>
+<td><b>Tecnólogo em Jogos Digitais</b><br/><sub>Fatec Americana</sub></td>
+</tr>
+</table>
 
-### 📜 Certificações em destaque
+**📜 Certificações em destaque**
 
-`Claude API & MCP (Anthropic)` · `Agents and Workflows (OpenAI)` · `Arquitetura de Software & Design de Sistemas Modernos` · `Python RPA (BotCity)` · `Oracle SQL`
+<p>
+<img src="https://img.shields.io/badge/Claude_API_%26_MCP-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API & MCP"/>
+<img src="https://img.shields.io/badge/Agents_%26_Workflows-412991?style=flat-square&logo=openai&logoColor=white" alt="Agents and Workflows"/>
+<img src="https://img.shields.io/badge/Arquitetura_%26_Design_de_Sistemas-3178C6?style=flat-square&logo=blueprint&logoColor=white" alt="Arquitetura de Software"/>
+<img src="https://img.shields.io/badge/Python_RPA-00C7B7?style=flat-square&logo=botcity&logoColor=white" alt="Python RPA (BotCity)"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+</p>
 
 ---
 
