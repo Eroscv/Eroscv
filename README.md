@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=180&section=header&text=Eros%20Vital&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20S%C3%AAnior&descAlignY=58&descSize=18" alt="Banner" width="100%"/>
 </p>
@@ -253,3 +255,5 @@ Sistema para centralizar o acompanhamento de ordens de serviço técnicas em uma
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erosvital9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eros-vital/)
+
+</div>
