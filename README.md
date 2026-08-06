@@ -26,7 +26,9 @@
 </tr>
 </table>
 
-Construo soluções ponta a ponta — do banco de dados à interface — com foco em **automação**, **RPA**, **chatbots/agentes de IA** e **arquitetura de software escalável**. Atualmente atuando como Analista de Desenvolvimento Sênior na **Guará Mídia**.
+Sou desenvolvedor full stack com trajetória por RPA, dashboards de dados e arquitetura de sistemas — hoje concentrado em construir **agentes de IA e chatbots** que automatizam processos reais de negócio. Gosto de pegar um problema operacional bagunçado e transformá-lo em um fluxo automatizado, testável e fácil de manter, do banco de dados até a interface.
+
+Atuo como Analista de Desenvolvimento Sênior na **Guará Mídia**, onde combino Python, automações e análise de dados no dia a dia, e mantenho projetos paralelos que exploram **n8n**, **Make** e a **API da Anthropic/OpenAI** para orquestrar agentes. Pós-graduado em Arquitetura de Software e em Análise de Dados, sempre buscando o equilíbrio entre solução pragmática e engenharia bem feita.
 
 <details>
 <summary>📑 Sumário</summary>
