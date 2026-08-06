@@ -66,8 +66,6 @@ Construo soluções ponta a ponta — do banco de dados à interface — com foc
 
 - 🏢 **Guará Mídia** — Analista de Desenvolvimento Sênior *(atual)*
   Chatbots em Python, automações, análises SQL e arquitetura de soluções.
-- 🏢 **SUADENAI** — Analista Pleno III *(atuação paralela)*
-  Apps TypeScript/JS com Supabase, automações via n8n, análise de dados operacionais.
 - 🏢 **BPM Dev** — RPA em Python, fullstack com ASP.NET/JavaScript, MongoDB.
 - 🏢 **Caterpillar** — Análise de dados e dashboards com Power BI e Python.
 - 🏢 **Destra Software** — Fullstack com Angular, Java Spring Boot e PostgreSQL.
