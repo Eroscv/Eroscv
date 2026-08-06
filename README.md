@@ -26,6 +26,8 @@
 </tr>
 </table>
 
+<div align="left">
+
 Sou desenvolvedor full stack com trajetória por RPA, dashboards de dados e arquitetura de sistemas — hoje concentrado em construir **agentes de IA e chatbots** que automatizam processos reais de negócio. Gosto de pegar um problema operacional bagunçado e transformá-lo em um fluxo automatizado, testável e fácil de manter, do banco de dados até a interface.
 
 Atuo como Analista de Desenvolvimento Sênior na **Guará Mídia**, onde combino Python, automações e análise de dados no dia a dia, e mantenho projetos paralelos que exploram **n8n**, **Make** e a **API da Anthropic/OpenAI** para orquestrar agentes. Pós-graduado em Arquitetura de Software e em Análise de Dados, sempre buscando o equilíbrio entre solução pragmática e engenharia bem feita.
@@ -43,6 +45,8 @@ Atuo como Analista de Desenvolvimento Sênior na **Guará Mídia**, onde combino
 - [📫 Vamos conversar?](#vamos-conversar)
 
 </details>
+
+</div>
 
 ---
 
@@ -151,6 +155,8 @@ Atuo como Analista de Desenvolvimento Sênior na **Guará Mídia**, onde combino
 <a id="projeto-em-destaque"></a>
 ### 🌟 Projeto em destaque
 
+<div align="left">
+
 **🏥 Sistema de Agenda, Gestão de Serviço e Digitação de Documentos — Medicina Ocupacional**
 *Projeto colaborativo com EXXMED*
 
@@ -167,6 +173,8 @@ Sistema para centralizar o acompanhamento de ordens de serviço técnicas em uma
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+</div>
 
 ---
 
