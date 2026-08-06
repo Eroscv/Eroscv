@@ -116,7 +116,12 @@ Sistema para centralizar o acompanhamento de ordens de serviço técnicas em uma
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eroscv&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eroscv&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroscv&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eroscv&theme=default&hide_border=true" alt="Streak de commits" />
 </p>
 
 ---
