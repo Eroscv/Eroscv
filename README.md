@@ -26,8 +26,23 @@
 
 Construo soluções ponta a ponta — do banco de dados à interface — com foco em **automação**, **RPA**, **chatbots/agentes de IA** e **arquitetura de software escalável**. Atualmente atuando como Analista de Desenvolvimento Sênior na **Guará Mídia**.
 
+<details>
+<summary>📑 Sumário</summary>
+
+- [🛠️ Stack & Ferramentas](#stack--ferramentas)
+- [💼 Experiência recente](#experiência-recente)
+- [🌟 Projeto em destaque](#projeto-em-destaque)
+- [📌 Projetos fixados](#projetos-fixados)
+- [🎓 Formação](#formação)
+- [🌐 Idiomas](#idiomas)
+- [📊 Estatísticas](#estatísticas)
+- [📫 Vamos conversar?](#vamos-conversar)
+
+</details>
+
 ---
 
+<a id="stack--ferramentas"></a>
 ### 🛠️ Stack & Ferramentas
 
 <sub>Ícones: <a href="https://github.com/marwin1991/profile-technology-icons">marwin1991/profile-technology-icons</a></sub>
@@ -94,16 +109,40 @@ Construo soluções ponta a ponta — do banco de dados à interface — com foc
 
 ---
 
+<a id="experiência-recente"></a>
 ### 💼 Experiência recente
 
-- 🏢 **Guará Mídia** — Analista de Desenvolvimento Sênior *(atual)*
-  Chatbots em Python, automações, análises SQL e arquitetura de soluções.
-- 🏢 **BPM Dev** — RPA em Python, fullstack com ASP.NET/JavaScript, MongoDB.
-- 🏢 **Caterpillar** — Análise de dados e dashboards com Power BI e Python.
-- 🏢 **Destra Software** — Fullstack com Angular, Java Spring Boot e PostgreSQL.
+<table>
+<tr>
+<td align="center" width="70">🟢</td>
+<td>
+<b>Guará Mídia</b> — Analista de Desenvolvimento Sênior <i>(atual)</i><br/>
+<sub>Chatbots em Python, automações, análises SQL e arquitetura de soluções.</sub>
+</td>
+</tr>
+<tr>
+<td align="center">⚪</td>
+<td>
+<b>BPM Dev</b> — RPA em Python, fullstack com ASP.NET/JavaScript, MongoDB.
+</td>
+</tr>
+<tr>
+<td align="center">⚪</td>
+<td>
+<b>Caterpillar</b> — Análise de dados e dashboards com Power BI e Python.
+</td>
+</tr>
+<tr>
+<td align="center">⚪</td>
+<td>
+<b>Destra Software</b> — Fullstack com Angular, Java Spring Boot e PostgreSQL.
+</td>
+</tr>
+</table>
 
 ---
 
+<a id="projeto-em-destaque"></a>
 ### 🌟 Projeto em destaque
 
 **🏥 Sistema de Agenda, Gestão de Serviço e Digitação de Documentos — Medicina Ocupacional**
@@ -125,6 +164,24 @@ Sistema para centralizar o acompanhamento de ordens de serviço técnicas em uma
 
 ---
 
+<a id="projetos-fixados"></a>
+### 📌 Projetos fixados
+
+<p align="center">
+  <a href="https://github.com/Eroscv/Projeto-Analise-de-dados">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Eroscv&repo=Projeto-Analise-de-dados&hide_border=true&title_color=D97757&icon_color=D97757&text_color=333333&bg_color=ffffff" alt="Projeto-Analise-de-dados" />
+  </a>
+  <a href="https://github.com/Eroscv/sales_api">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Eroscv&repo=sales_api&hide_border=true&title_color=D97757&icon_color=D97757&text_color=333333&bg_color=ffffff" alt="sales_api" />
+  </a>
+  <a href="https://github.com/Eroscv/StrawberryRush">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Eroscv&repo=StrawberryRush&hide_border=true&title_color=D97757&icon_color=D97757&text_color=333333&bg_color=ffffff" alt="StrawberryRush" />
+  </a>
+</p>
+
+---
+
+<a id="formação"></a>
 ### 🎓 Formação
 
 - 🎓 Pós-graduação em **Arquitetura de Software** — Faculeste
@@ -137,29 +194,44 @@ Sistema para centralizar o acompanhamento de ordens de serviço técnicas em uma
 
 ---
 
+<a id="idiomas"></a>
 ### 🌐 Idiomas
 
 🇬🇧 Inglês — C1 &nbsp;|&nbsp; 🇩🇪 Alemão — A2
 
 ---
 
+<a id="estatísticas"></a>
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eroscv&show_icons=true&hide_border=true&count_private=true&title_color=D97757&icon_color=D97757&text_color=333333&bg_color=ffffff" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroscv&layout=compact&hide_border=true&title_color=D97757&text_color=333333&bg_color=ffffff" alt="Linguagens mais usadas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eroscv&show_icons=true&hide_border=true&count_private=true&theme=dark&title_color=D97757&icon_color=D97757" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eroscv&show_icons=true&hide_border=true&count_private=true&title_color=D97757&icon_color=D97757&text_color=333333&bg_color=ffffff" alt="Estatísticas do GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroscv&layout=compact&hide_border=true&theme=dark&title_color=D97757" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroscv&layout=compact&hide_border=true&title_color=D97757&text_color=333333&bg_color=ffffff" alt="Linguagens mais usadas" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eroscv&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757&background=ffffff" alt="Streak de commits" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Eroscv&hide_border=true&theme=dark&ring=D97757&fire=D97757&currStreakLabel=D97757" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eroscv&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757&background=ffffff" alt="Streak de commits" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eroscv/Eroscv/output/github-contribution-grid-snake.svg" alt="Snake de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eroscv/Eroscv/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Eroscv/Eroscv/output/github-contribution-grid-snake.svg" alt="Snake de contribuições" />
+  </picture>
 </p>
 
 ---
 
+<a id="vamos-conversar"></a>
 ### 📫 Vamos conversar?
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erosvital9@gmail.com)
